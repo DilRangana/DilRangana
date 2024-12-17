@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Panditha Achchi</h1>
+<h1 align="center">Hi 👋, I'm Dilmi Rangana</h1>
 <h3 align="center">A passionate software engieering student</h3>
 
 - 🌱 I’m currently learning **React.js and Python**
