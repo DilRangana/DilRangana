@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React.js and Python**
 
-- 📫 How to reach me **dilmi.20222045@iit.ac.lk**
+- 📫 How to reach me: **dilmirangana1234@gmail.com**
 
 
 <!--
